@@ -1,3 +1,80 @@
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	font-size: 20px;
+	color: #333;
+	line-height: 32px
+}
+
+header {
+	background-color: #ccc;
+	color: red;
+	padding:20px;
+	margin-bottom: 30px;
+
+	
+}
+section {
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+
+
+.Right {
+	background-color: #666;
+	float: left;
+	width:33.3%;
+
+}
+
+.Middle {
+	background-color: #888;
+	width: 33.3%;
+	float: left;
+
+}
+
+.Left {
+	background-color: #666;
+	width:33.3%;
+	float: left;
+}
+
+#A {
+	background: #eee;
+	color: #333;
+	width:100%;
+	overflow: auto;
+	clear: both;
+
+}
+#div {
+	background-color: #6ea3da;
+	padding: 20px;
+	margin-top: 30px;
+
+}
+
+aside {
+	float: left;
+	width: 33%;
+	margin-left: 60px;
+	padding: 100px;
+	height: 300px;
+	background: #fff;
+	border: 1px solid #eee;
+
+
+}
+
+footer {
+	background: #ccc;
+	padding: 20px;
+	clear: both;
+
 }
