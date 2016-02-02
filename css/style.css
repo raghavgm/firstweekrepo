@@ -1,4 +1,4 @@
-<style>
+
 
 body {
 	background-color: #efeee7;
@@ -18,20 +18,25 @@ h1 {
 	font-size: 28px;
 	margin: 10px;
 	padding: 10px;
+	color: #fff;
+	text-align: center;
 }
 h2 {
 	font-size: 24px;
+
 }
 .container {
-	margin:0 auto;
+	margin:90px;
 }
 #main-bio {
 	float:left;
 	width:70%;
+
 }
 #contact-info {
 	float:left;
 	width:30%;
+
 }
 #bio-image {
 	float:left;
@@ -40,8 +45,11 @@ h2 {
 }
 p {
 	line-height: 150%;
+	text-align: justify;
+	margin-right: 60px;
+	
 }
-#blueee {
+#red {
 	color: #d21034;
 }
 
@@ -57,6 +65,3 @@ p {
 
 
 
-
-
-</style>
