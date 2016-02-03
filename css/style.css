@@ -11,6 +11,7 @@ body {
 
 header {
 	background-color: #d21034;
+
 }
 
 h1 {
@@ -46,8 +47,8 @@ h2 {
 p {
 	line-height: 150%;
 	text-align: justify;
-	margin-right: 60px;
-	
+	margin-right: 50px; /* Doing padding-right: 50px instead does the same thing here!!*/
+	 
 }
 #red {
 	color: #d21034;
